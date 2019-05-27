@@ -1,7 +1,7 @@
 {
   "name": "tinypixel/tiny-highlighter",
   "type": "wordpress-plugin",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Inline highlighting plugin for WordPress 5 block editor",
   "keywords": [
     "laravel",
