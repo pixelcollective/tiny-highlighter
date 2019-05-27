@@ -55,8 +55,8 @@ injectGlobal`
  *
  */
 class HighlighterToolbar extends Component {
-  constructor() {
-    super(...arguments)
+  constructor(props) {
+    super(props)
 
     this.state = {
       openPopover: false,

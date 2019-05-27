@@ -1,0 +1,22 @@
+{
+  "name": "tinypixel/tiny-highlighter",
+  "version": "0.1.0",
+  "description": "Inline highlighting plugin for WordPress 5 block editor",
+  "keywords": [
+    "laravel",
+    "blade",
+    "template",
+    "wordpress",
+    "gutenberg",
+    "blocks"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kelly Mears",
+      "homepage": "https://tinypixel.dev"
+    }
+  ],
+  "minimum-stability": "dev",
+  "prefer-stable": true
+}

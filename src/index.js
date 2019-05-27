@@ -3,7 +3,7 @@ import { __ } from '@wordpress/i18n'
 import { registerFormatType } from '@wordpress/rich-text'
 
 // components
-import { HighlighterToolbar } from './inlineColors'
+import { HighlighterToolbar } from './toolbar'
 
 // color and background formats
 [
