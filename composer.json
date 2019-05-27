@@ -13,7 +13,7 @@
   ],
   "require": {
     "php": ">=5",
-    "composer/installers": "v1.0.6"
+    "composer/installers": "v1.4"
   },
   "license": "MIT",
   "authors": [
