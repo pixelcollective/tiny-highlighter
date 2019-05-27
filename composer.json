@@ -1,5 +1,6 @@
 {
   "name": "tinypixel/tiny-highlighter",
+  "type": "wordpress-plugin",
   "version": "0.1.0",
   "description": "Inline highlighting plugin for WordPress 5 block editor",
   "keywords": [
@@ -10,6 +11,10 @@
     "gutenberg",
     "blocks"
   ],
+  "require": {
+    "php": ">=5",
+    "composer/installers": "v1.0.6"
+  },
   "license": "MIT",
   "authors": [
     {
